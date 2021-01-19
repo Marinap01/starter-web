@@ -7,3 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 "Added some text to the file" 
 "Adding another line" 
+"Line number 3"
